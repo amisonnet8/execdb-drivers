@@ -148,3 +148,7 @@ APIサーフェスは、他の7つのドライバが見つけたどのバグと�
 `tests/drivers/`ディレクトリから分離したもので、元々はExecDBのPostgreSQL
 互換ワイヤープロトコル実装と並行して開発されていた。execdb自体には現在、
 Go/pgxベースのプロトコルテスト(`tests/pgclient`)のみが残っている。
+
+## ライセンス
+
+MIT — [LICENSE](LICENSE) を参照。

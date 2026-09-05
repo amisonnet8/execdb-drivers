@@ -147,3 +147,7 @@ This repository was split out of
 `tests/drivers/` directory, where it was developed alongside ExecDB's
 PostgreSQL wire-protocol implementation. execdb itself now keeps only its
 Go/pgx-based protocol test (`tests/pgclient`).
+
+## License
+
+MIT — see [LICENSE](LICENSE).
